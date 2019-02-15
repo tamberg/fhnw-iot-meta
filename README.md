@@ -1,47 +1,47 @@
-# FHNW (syspr) Meta
-Setup used to teach module [syspr]( https://www.fhnw.ch/de/studium/module/6008081), [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) [@tamberg](https://twitter.com/tamberg) for [FHNW](https://www.fhnw.ch/).
+# FHNW (iot) Meta
+Setup used to teach module [iot](https://www.fhnw.ch/de/studium/module/9280188), [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) [@tamberg](https://twitter.com/tamberg) for [FHNW](https://www.fhnw.ch/).
 
 ## GitHub Classroom
 * https://classroom.github.com/classrooms
-  * https://classroom.github.com/classrooms/42295693-fhnw-syspr-3ia (per class)
-    * https://classroom.github.com/classrooms/42295693-fhnw-syspr-3ia/assignments/fhnw-syspr-work-00 (assessment, per week)
-    * https://classroom.github.com/classrooms/42295693-fhnw-syspr-3ia/assignments/fhnw-syspr-work-01
+  * https://classroom.github.com/classrooms/42295693-fhnw-iot-3ia (per class)
+    * https://classroom.github.com/classrooms/42295693-fhnw-iot-3ia/assignments/fhnw-iot-work-00 (assessment, per week)
+    * https://classroom.github.com/classrooms/42295693-fhnw-iot-3ia/assignments/fhnw-iot-work-01
     * ...
-  * https://classroom.github.com/classrooms/42180051-fhnw-syspr-3ib
-    * https://classroom.github.com/classrooms/42180051-fhnw-syspr-3ib/assignments/fhnw-syspr-work-00
-    * https://classroom.github.com/classrooms/42180051-fhnw-syspr-3ib/assignments/fhnw-syspr-work-01
+  * https://classroom.github.com/classrooms/42180051-fhnw-iot-3ib
+    * https://classroom.github.com/classrooms/42180051-fhnw-iot-3ib/assignments/fhnw-iot-work-00
+    * https://classroom.github.com/classrooms/42180051-fhnw-iot-3ib/assignments/fhnw-iot-work-01
     * ...
 
 ## GitHub Accounts
 * https://github.com/tamberg (author, teacher)
-* https://github.com/fhnw-syspr-3ia (org, per class)
-* https://github.com/fhnw-syspr-3ib
+* https://github.com/fhnw-iot-3ia (org, per class)
+* https://github.com/fhnw-iot-3ib
 * https://github.com/USER (each student)
 
 ## GitHub Repos Teacher
-* https://github.com/tamberg/fhnw-syspr (slides &amp; code examples, per module)
-  * https://github.com/fhnw-syspr-3ia/fhnw-syspr (fork, per class)
-  * https://github.com/fhnw-syspr-3ib/fhnw-syspr
-* https://github.com/tamberg/fhnw-syspr-work-00 (hands-on exercises, per week)
-  * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00 (fork, per class)
-    * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-USER (generated copy, per student)
+* https://github.com/tamberg/fhnw-iot (slides &amp; code examples, per module)
+  * https://github.com/fhnw-iot-3ia/fhnw-iot (fork, per class)
+  * https://github.com/fhnw-iot-3ib/fhnw-iot
+* https://github.com/tamberg/fhnw-iot-work-00 (hands-on exercises, per week)
+  * https://github.com/fhnw-iot-3ia/fhnw-iot-work-00 (fork, per class)
+    * https://github.com/fhnw-iot-3ia/fhnw-iot-work-00-USER (generated copy, per student)
     * ...
-  * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-00
-* https://github.com/tamberg/fhnw-syspr-work-01
-  * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-01
-  * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-01
-* https://github.com/tamberg/fhnw-syspr-work-02
-  * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-02
-  * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-02
-* https://github.com/tamberg/fhnw-syspr-work-03
-  * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-03
-  * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-03
+  * https://github.com/fhnw-iot-3ib/fhnw-iot-work-00
+* https://github.com/tamberg/fhnw-iot-work-01
+  * https://github.com/fhnw-iot-3ia/fhnw-iot-work-01
+  * https://github.com/fhnw-iot-3ib/fhnw-iot-work-01
+* https://github.com/tamberg/fhnw-iot-work-02
+  * https://github.com/fhnw-iot-3ia/fhnw-iot-work-02
+  * https://github.com/fhnw-iot-3ib/fhnw-iot-work-02
+* https://github.com/tamberg/fhnw-iot-work-03
+  * https://github.com/fhnw-iot-3ia/fhnw-iot-work-03
+  * https://github.com/fhnw-iot-3ib/fhnw-iot-work-03
 * ...
 
 ## Workflow Teacher
 ### Creating Original Content (once)
-* https://github.com/tamberg/fhnw-syspr
-* https://github.com/tamberg/fhnw-syspr-work-00
+* https://github.com/tamberg/fhnw-iot
+* https://github.com/tamberg/fhnw-iot-work-00
 
 Can be private, if author has private repos.
 
@@ -54,15 +54,15 @@ Or, in German
 > *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
 
 ### Creating a Fork per Class
-https://github.com/tamberg/fhnw-syspr-work-00 => click fork button, chose org
+https://github.com/tamberg/fhnw-iot-work-00 => click fork button, chose org
 
 ### Cloning the Fork
-<pre>$ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-xx</pre>
+<pre>$ git clone https://github.com/fhnw-iot-3ia/fhnw-iot-work-xx</pre>
 
 ### Adding Upstream to Fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
 <pre>$ git remote -v
-$ git remote add upstream https://github.com/tamberg/fhnw-syspr-work-xx
+$ git remote add upstream https://github.com/tamberg/fhnw-iot-work-xx
 $ git remote -v</pre>
 
 ### Syncing Forks with Upstream
@@ -93,7 +93,7 @@ Make sure to disable the Classroom Link in the settings until the repository is 
 ## Workflow Students
 ### Playing with Code Examples
 <pre>$ cd ~
-$ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr</pre>
+$ git clone https://github.com/fhnw-iot-3ia/fhnw-iot</pre>
 
 Changes remain local, forking / pull requests possible to enhance examples.
 
@@ -103,9 +103,9 @@ Changes remain local, forking / pull requests possible to enhance examples.
 Ideally once a week before lesson starts.
 
 ### Working on a Hands-on Assignment
-https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00 => click classroom link => get personal repo
+https://github.com/fhnw-iot-3ia/fhnw-iot-work-00 => click classroom link => get personal repo
 <pre>$ cd ~
-$ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-USER
+$ git clone https://github.com/fhnw-iot-3ia/fhnw-iot-work-00-USER
 $ git add FILE
 $ git commit -m "fixed all bugs"
 $ git push</pre>

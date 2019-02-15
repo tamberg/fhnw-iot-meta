@@ -11,7 +11,6 @@ Setup used to teach module [iot](https://www.fhnw.ch/de/studium/module/9280188),
 ## GitHub Accounts
 * https://github.com/tamberg (author, teacher)
 * https://github.com/fhnw-iot-4ia (org, per class)
-* https://github.com/fhnw-iot-3ib
 * https://github.com/USER (each student)
 
 ## GitHub Repos Teacher

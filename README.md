@@ -3,39 +3,30 @@ Setup used to teach module [iot](https://www.fhnw.ch/de/studium/module/9280188),
 
 ## GitHub Classroom
 * https://classroom.github.com/classrooms
-  * https://classroom.github.com/classrooms/42295693-fhnw-iot-3ia (per class)
-    * https://classroom.github.com/classrooms/42295693-fhnw-iot-3ia/assignments/fhnw-iot-work-00 (assessment, per week)
-    * https://classroom.github.com/classrooms/42295693-fhnw-iot-3ia/assignments/fhnw-iot-work-01
-    * ...
-  * https://classroom.github.com/classrooms/42180051-fhnw-iot-3ib
-    * https://classroom.github.com/classrooms/42180051-fhnw-iot-3ib/assignments/fhnw-iot-work-00
-    * https://classroom.github.com/classrooms/42180051-fhnw-iot-3ib/assignments/fhnw-iot-work-01
+  * https://classroom.github.com/classrooms/42295693-fhnw-iot-4ia (per class)
+    * https://classroom.github.com/classrooms/42295693-fhnw-iot-4ia/assignments/fhnw-iot-work-00 (assessment, per week)
+    * https://classroom.github.com/classrooms/42295693-fhnw-iot-4ia/assignments/fhnw-iot-work-01
     * ...
 
 ## GitHub Accounts
 * https://github.com/tamberg (author, teacher)
-* https://github.com/fhnw-iot-3ia (org, per class)
+* https://github.com/fhnw-iot-4ia (org, per class)
 * https://github.com/fhnw-iot-3ib
 * https://github.com/USER (each student)
 
 ## GitHub Repos Teacher
 * https://github.com/tamberg/fhnw-iot (slides &amp; code examples, per module)
-  * https://github.com/fhnw-iot-3ia/fhnw-iot (fork, per class)
-  * https://github.com/fhnw-iot-3ib/fhnw-iot
+  * https://github.com/fhnw-iot-4ia/fhnw-iot (fork, per class)
 * https://github.com/tamberg/fhnw-iot-work-00 (hands-on exercises, per week)
-  * https://github.com/fhnw-iot-3ia/fhnw-iot-work-00 (fork, per class)
-    * https://github.com/fhnw-iot-3ia/fhnw-iot-work-00-USER (generated copy, per student)
+  * https://github.com/fhnw-iot-4ia/fhnw-iot-work-00 (fork, per class)
+    * https://github.com/fhnw-iot-4ia/fhnw-iot-work-00-USER (generated copy, per student)
     * ...
-  * https://github.com/fhnw-iot-3ib/fhnw-iot-work-00
 * https://github.com/tamberg/fhnw-iot-work-01
-  * https://github.com/fhnw-iot-3ia/fhnw-iot-work-01
-  * https://github.com/fhnw-iot-3ib/fhnw-iot-work-01
+  * https://github.com/fhnw-iot-4ia/fhnw-iot-work-01
 * https://github.com/tamberg/fhnw-iot-work-02
-  * https://github.com/fhnw-iot-3ia/fhnw-iot-work-02
-  * https://github.com/fhnw-iot-3ib/fhnw-iot-work-02
+  * https://github.com/fhnw-iot-4ia/fhnw-iot-work-02
 * https://github.com/tamberg/fhnw-iot-work-03
-  * https://github.com/fhnw-iot-3ia/fhnw-iot-work-03
-  * https://github.com/fhnw-iot-3ib/fhnw-iot-work-03
+  * https://github.com/fhnw-iot-4ia/fhnw-iot-work-03
 * ...
 
 ## Workflow Teacher
@@ -57,7 +48,7 @@ Or, in German
 https://github.com/tamberg/fhnw-iot-work-00 => click fork button, chose org
 
 ### Cloning the Fork
-<pre>$ git clone https://github.com/fhnw-iot-3ia/fhnw-iot-work-xx</pre>
+<pre>$ git clone https://github.com/fhnw-iot-4ia/fhnw-iot-work-xx</pre>
 
 ### Adding Upstream to Fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
@@ -93,7 +84,7 @@ Make sure to disable the Classroom Link in the settings until the repository is 
 ## Workflow Students
 ### Playing with Code Examples
 <pre>$ cd ~
-$ git clone https://github.com/fhnw-iot-3ia/fhnw-iot</pre>
+$ git clone https://github.com/fhnw-iot-4ia/fhnw-iot</pre>
 
 Changes remain local, forking / pull requests possible to enhance examples.
 
@@ -103,9 +94,9 @@ Changes remain local, forking / pull requests possible to enhance examples.
 Ideally once a week before lesson starts.
 
 ### Working on a Hands-on Assignment
-https://github.com/fhnw-iot-3ia/fhnw-iot-work-00 => click classroom link => get personal repo
+https://github.com/fhnw-iot-4ia/fhnw-iot-work-00 => click classroom link => get personal repo
 <pre>$ cd ~
-$ git clone https://github.com/fhnw-iot-3ia/fhnw-iot-work-00-USER
+$ git clone https://github.com/fhnw-iot-4ia/fhnw-iot-work-00-USER
 $ git add FILE
 $ git commit -m "fixed all bugs"
 $ git push</pre>
